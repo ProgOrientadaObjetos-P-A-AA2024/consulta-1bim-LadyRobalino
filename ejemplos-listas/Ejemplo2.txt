@@ -1,0 +1,9 @@
+# Creación de una lista
+numeros = [1, 2, 3, 4, 5]
+
+# Acceso a un elemento de la lista
+print(numeros[0])  # Salida: 1
+
+# Recorrido de la lista
+for numero in numeros:
+    print(numero)

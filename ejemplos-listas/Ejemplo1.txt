@@ -1,0 +1,11 @@
+# Creación de una lista
+frutas = ["manzana", "banana", "cereza"]
+print(frutas)  # Salida: ['manzana', 'banana', 'cereza']
+
+# Agregar un elemento al final de la lista
+frutas.append("naranja")
+print(frutas)  # Salida: ['manzana', 'banana', 'cereza', 'naranja']
+
+# Eliminar un elemento de la lista
+frutas.remove("banana")
+print(frutas)  # Salida: ['manzana', 'cereza', 'naranja']

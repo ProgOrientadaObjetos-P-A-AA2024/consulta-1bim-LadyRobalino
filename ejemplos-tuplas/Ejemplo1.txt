@@ -1,0 +1,6 @@
+# Creación de una tupla
+nombres = ("Maria", "Luis", "Lady")
+print(frutas)  # Salida: ('manzana', 'banana', 'cereza')
+
+# Acceso a un elemento de la tupla
+print(nombres[0])  # Salida: Maria
